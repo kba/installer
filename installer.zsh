@@ -136,7 +136,7 @@ execute \
     "Is git installed?" \
     --error \
     "Does '$ZPLUG_HOME' already exist?" \
-    "git clone https://github.com/zplug/zplug.git $ZPLUG_HOME"
+    "git clone https://github.com/kba/zplug.git $ZPLUG_HOME"
 
 
 printf " All processes are successfully completed \U1F389\n"
